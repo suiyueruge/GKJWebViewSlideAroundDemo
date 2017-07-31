@@ -1,2 +1,2 @@
 # GKJWebViewSlideAroundDemo
-webView左右滑翻页
+webView左右滑动翻页
